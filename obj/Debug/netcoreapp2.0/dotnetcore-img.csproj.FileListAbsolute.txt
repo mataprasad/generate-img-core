@@ -1,0 +1,10 @@
+D:\Mata\dotnetcore-img\obj\Debug\netcoreapp2.0\dotnetcore-img.csproj.CoreCompileInputs.cache
+D:\Mata\dotnetcore-img\obj\Debug\netcoreapp2.0\dotnetcore-img.AssemblyInfoInputs.cache
+D:\Mata\dotnetcore-img\obj\Debug\netcoreapp2.0\dotnetcore-img.AssemblyInfo.cs
+D:\Mata\dotnetcore-img\bin\Debug\netcoreapp2.0\dotnetcore-img.deps.json
+D:\Mata\dotnetcore-img\bin\Debug\netcoreapp2.0\dotnetcore-img.runtimeconfig.json
+D:\Mata\dotnetcore-img\bin\Debug\netcoreapp2.0\dotnetcore-img.runtimeconfig.dev.json
+D:\Mata\dotnetcore-img\bin\Debug\netcoreapp2.0\dotnetcore-img.dll
+D:\Mata\dotnetcore-img\bin\Debug\netcoreapp2.0\dotnetcore-img.pdb
+D:\Mata\dotnetcore-img\obj\Debug\netcoreapp2.0\dotnetcore-img.dll
+D:\Mata\dotnetcore-img\obj\Debug\netcoreapp2.0\dotnetcore-img.pdb
